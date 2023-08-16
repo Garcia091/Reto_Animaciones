@@ -1,1 +1,3 @@
-# Reto_Animaciones
+# Reto_Animaciones 
+
+Clase de animaciones y transiciones
